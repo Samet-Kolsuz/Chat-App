@@ -1,13 +1,35 @@
-# React + Vite
+#ChatApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Kullanıcıların Google ile giriş yapma seçeneğiyle kolayca kayıt olabileceği ve oda adını girerek sohbete katılabileceği, gerçek zamanlı bir sohbet uygulamasıdır.
 
-Currently, two official plugins are available:
+##Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Google ile Giriş: Kullanıcılar Google hesaplarıyla hızlıca oturum açabilir.
+Oda Tabanlı Sohbet: Kullanıcılar, belirli bir oda adı girerek sohbete katılabilir.
+Gerçek Zamanlı Mesajlaşma: Mesajlar anında diğer kullanıcılarla paylaşılır.
+Emoji Desteği: Emoji Picker ile mesajlara emoji eklenebilir.
+Kullanıcı Dostu Arayüz: Modern ve duyarlı tasarım ile kolay kullanım.
 
-## Expanding the ESLint configuration
+##Kullanılan Kütüphane ve Teknolojiler
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Chat-App
+React: Kullanıcı arayüzünü oluşturmak için.
+Vite: Hızlı ve modern bir geliştirme ortamı.
+Firebase: Gerçek zamanlı veri tabanı ve kimlik doğrulama.
+React DOM: React bileşenlerini DOM ile entegre etmek için.
+Tailwind CSS: Stil ve duyarlı tasarım.
+Emoji Picker React: Mesajlara emoji eklemek için.
+
+
+##  Picture  ##
+
+
+![](/A1.png)
+![](/A2.png)
+![](/A3.png)
+
+
+##  GIF  ##
+
+
+![](/A4.gif)
+
